@@ -1,0 +1,12 @@
+E:\KoursWorkBeta\KoursWorkBeta\bin\Debug\KoursWorkBeta.exe.config
+E:\KoursWorkBeta\KoursWorkBeta\obj\Debug\KoursWorkBeta.csprojResolveAssemblyReference.cache
+E:\KoursWorkBeta\KoursWorkBeta\obj\Debug\KoursWorkBeta.Form1.resources
+E:\KoursWorkBeta\KoursWorkBeta\obj\Debug\KoursWorkBeta.Properties.Resources.resources
+E:\KoursWorkBeta\KoursWorkBeta\obj\Debug\KoursWorkBeta.csproj.GenerateResource.Cache
+E:\KoursWorkBeta\KoursWorkBeta\bin\Debug\KoursWorkBeta.exe
+E:\KoursWorkBeta\KoursWorkBeta\bin\Debug\KoursWorkBeta.pdb
+E:\KoursWorkBeta\KoursWorkBeta\obj\Debug\KoursWorkBeta.exe
+E:\KoursWorkBeta\KoursWorkBeta\obj\Debug\KoursWorkBeta.pdb
+C:\Users\Pavel\Desktop\Документы\KoursWorkBeta\KoursWorkBeta\KoursWorkBeta\bin\Debug\KoursWorkBeta.exe.config
+C:\Users\Pavel\Desktop\Документы\KoursWorkBeta\KoursWorkBeta\KoursWorkBeta\obj\Debug\KoursWorkBeta.exe
+C:\Users\Pavel\Desktop\Документы\KoursWorkBeta\KoursWorkBeta\KoursWorkBeta\obj\Debug\KoursWorkBeta.pdb
